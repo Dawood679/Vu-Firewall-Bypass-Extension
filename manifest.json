@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "VU Quiz & Lecture Bypass",
+    "version": "1.0",
+    "description": "Easily copy quizzes and mark lectures as completed on VU LMS.",
+    "permissions": ["contextMenus", "activeTab", "scripting"],
+    "host_permissions": ["*://*.vu.edu.pk/*"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
