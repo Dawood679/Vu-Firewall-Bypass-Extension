@@ -30,3 +30,12 @@ This extension is intended for educational purposes only. Use it responsibly and
 5. Select the folder where the extension's source code is located.
 6. The extension will now be installed and active in your browser.
 
+
+## 📺 Demo
+
+Watch the extension in action:
+
+[![Lecture Assistant Extension Demo](https://img.youtube.com/vi/-wmpJmfSHt0/0.jpg)](https://youtu.be/-wmpJmfSHt0)
+
+This video demonstrates how the extension automatically skips lectures, marks them as complete, and enables copy-paste functionality in GDB sections.
+
